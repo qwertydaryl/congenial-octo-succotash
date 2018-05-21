@@ -1,37 +1,14 @@
-## Welcome to GitHub Pages
+<p style="color:#003399;font-size:18px;font-weight:bold;text-align:center;">Welcome to My Webpage!</p>
+<p style=”color:#000;font-size:14px;font-weight:normal;text-align:left;”>You have stumbled upon the lovely webpage of Wanda WikiHow. This is my little nook on the Internet, featuring my artwork, writing, graphic designs, and future project ideas. Please feel free to take a look around using the navigation menu to the left, and to leave a comment with your thoughts! If you’d like to send me an email, head to the <a href=”/contactme.html” target=”_blank”>contact</a> page. I’d be more than happy to return your correspondence!</p>
 
-You can use the [editor on GitHub](https://github.com/qwertydaryl/congenial-octo-succotash/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+<hr />
+<p style=”color:#454545;font-size:16px;font-weight:normal;font-style:italic;text-align:left;”>Latest Updates</p>
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+<p style=”color:#000;font-size:14px;font-weight:normal;text-align:left;”>
+<strong>March 25, 2012:</strong> I uploaded three <a href=”/artwork/watercolor.html” target=”_blank”>watercolor</a> pieces to my portfolio.</p>
 
-### Markdown
+<p style=”color:#000;font-size:14px;font-weight:normal;text-align:left;”>
+<strong>March 14, 2012:</strong> I had a random moment of inspiration in the middle of the night, which I took advantage of to produce my newest poem, <em>In the Night Sky</em>. Click <a href=”/writing/poems.html” target=”_blank”>here</a> to enjoy!</p>
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/qwertydaryl/congenial-octo-succotash/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+<p style=”color:#000;font-size:14px;font-weight:normal;text-align:left;”>
+<strong>February 14, 2012:</strong> In honor of Valentine’s Day, I have uploaded two <a href=”/writing/poems.html” target=”_blank”>poems</a> and three <a href=”/artwork/sketches.html” target=”_blank”>sketches</a> with a subtle but nuanced romantic bent. I challenged myself to think of love outside of the traditional cliche conceptions so those without significant others can still appreciate this lovely holiday. We all have so much more love in our lives than the stereotypical portrayal of romantic affinity; we should open our eyes to all of the different ways in which we are blessed and appreciate it!</p>
